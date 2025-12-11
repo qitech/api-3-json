@@ -1,0 +1,15 @@
+{
+  "input": {
+    "workflow": {
+      "2": {
+        "inputs": {
+          "filename": "qwen_image_edit_2509_fp8_e4m3fn.safetensors"
+        },
+        "class_type": "ddd8ed8f-4e51-4b13-8f4b-a8947e02c345",
+        "_meta": {
+          "title": "ddd8ed8f-4e51-4b13-8f4b-a8947e02c345"
+        }
+      }
+    }
+  }
+}
